@@ -7,3 +7,7 @@ If using MSIX for WVD, my sample cert file password is P@ssword2018 and it shoul
 The ADFS document walks through the steps of configuring SSO for WVD with ADFS
 
 The PDF File for my workshops is a good summary of WVD
+
+SysPrepScript is what I use when creating WVD Win10 images
+
+The monitoring document goes over how to enable and configure monitoring for WVD
